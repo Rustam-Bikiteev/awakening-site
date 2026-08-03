@@ -1,0 +1,2946 @@
+{
+  "schema": 1,
+  "exportedAt": 1785759644314,
+  "events": [
+    {
+      "type": "settings",
+      "patch": {
+        "smallsRequired": 0
+      },
+      "id": "ms805xty-1-t3uscb",
+      "ts": 1785445522054
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              },
+              {
+                "action": "strength",
+                "target": 8,
+                "label": "Силовая B — 8 подходов"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms8067u6-2-ky2opd",
+      "ts": 1785445535022
+    },
+    {
+      "type": "action",
+      "action": "run",
+      "payload": {
+        "amount": 6,
+        "runKind": "easy"
+      },
+      "ts": 1785445546340,
+      "id": "ms806gkk-3-l4g6s6"
+    },
+    {
+      "id": "ms8g898u-1-i60v2s",
+      "ts": 1785448800000,
+      "type": "day_closed",
+      "day": "2026-07-30"
+    },
+    {
+      "type": "debuff",
+      "debuff": "no_sleep",
+      "ts": 1785472547714,
+      "id": "ms8g96yq-2-7i2z4n"
+    },
+    {
+      "type": "title_equipped",
+      "title": null,
+      "id": "ms8gb23q-3-goxo0i",
+      "ts": 1785472634726
+    },
+    {
+      "type": "title_equipped",
+      "title": "awakened",
+      "id": "ms8gb2um-4-104emk",
+      "ts": 1785472635694
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              },
+              {
+                "action": "strength",
+                "target": 8,
+                "label": "Силовая B — 8 подходов"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms8kgmcq-5-mq9285",
+      "ts": 1785479612714
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              },
+              {
+                "action": "strength",
+                "target": 8,
+                "label": "Силовая B — 8 подходов"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms8kgn0n-6-qeq5px",
+      "ts": 1785479613575
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              },
+              {
+                "action": "strength",
+                "target": 8,
+                "label": "Силовая B — 8 подходов"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms8kgr1s-7-fcxaxm",
+      "ts": 1785479618800
+    },
+    {
+      "type": "action",
+      "action": "swim",
+      "payload": {
+        "amount": 700
+      },
+      "ts": 1785479631020,
+      "id": "ms8kh0h8-8-wi0s6r"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              },
+              {
+                "action": "strength",
+                "target": 8,
+                "label": "Силовая B — 8 подходов"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms8lmkn0-1-itwz8c",
+      "ts": 1785481570045
+    },
+    {
+      "type": "title_equipped",
+      "title": null,
+      "id": "ms90rke3-1-o56y1f",
+      "ts": 1785506997243
+    },
+    {
+      "type": "title_equipped",
+      "title": "awakened",
+      "id": "ms90rkvv-2-j92qc7",
+      "ts": 1785506997883
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "ms96q72x-3-gm1vr6",
+      "ts": 1785517011033
+    },
+    {
+      "id": "msa64ktc-1-c7z16b",
+      "ts": 1785535200000,
+      "type": "day_closed",
+      "day": "2026-07-31"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msa7jjs9-1-qxy7p0",
+      "ts": 1785578846697
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785580785103,
+      "id": "msa8p3gv-3-sxjiwh"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1785580796723,
+      "id": "msa8pcfn-4-65fcpg"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1785580805314,
+      "id": "msa8pj2a-5-kp02pw"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1785580812542,
+      "id": "msa8pon2-6-7lript"
+    },
+    {
+      "type": "action",
+      "action": "run",
+      "payload": {
+        "amount": 7,
+        "runKind": "easy"
+      },
+      "ts": 1785613516201,
+      "id": "msas6my1-8-5eytm2"
+    },
+    {
+      "id": "msawzxy3-9-n6pizc",
+      "ts": 1785621600000,
+      "type": "day_closed",
+      "day": "2026-08-01"
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785662990149,
+      "id": "msbln1ae-a-r6udnv"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1785663000151,
+      "id": "msbln907-b-tfd1f4"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1785663006973,
+      "id": "msblne9p-c-bk8aec"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1785663012652,
+      "id": "msblning-d-2zy2rk"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": []
+          }
+        ]
+      },
+      "id": "msblo57c-e-3ks1bh",
+      "ts": 1785663041880
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "customActions": [
+          {
+            "id": "custom:msbloyyr",
+            "label": "Записаться к травматологу",
+            "unit": "раз",
+            "xpPerUnit": 1,
+            "stat": "MND"
+          }
+        ]
+      },
+      "id": "msbloyys-f-1mkvav",
+      "ts": 1785663080452
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 5,
+                "label": "Записаться к травматологу 5 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msbloyyv-g-f8u64i",
+      "ts": 1785663080455
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 51,
+                "label": "Записаться к травматологу 51 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblp9ge-h-0b8tat",
+      "ts": 1785663094046
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 5,
+                "label": "Записаться к травматологу 5 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblpawy-i-79cskn",
+      "ts": 1785663095938
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 51,
+                "label": "Записаться к травматологу 51 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblpb68-j-l9z306",
+      "ts": 1785663096272
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 5,
+                "label": "Записаться к травматологу 5 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblpbpv-k-lt7kat",
+      "ts": 1785663096979
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 51,
+                "label": "Записаться к травматологу 51 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblpeqt-l-00aqxg",
+      "ts": 1785663100901
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msblpffv-m-p9mj20",
+      "ts": 1785663101803
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "msbpihvf-n-40mq1s",
+      "ts": 1785669496827
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              },
+              {
+                "action": "sleep",
+                "target": 8,
+                "label": "Сон 8 ч"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbpiqjr-o-kdqmwr",
+      "ts": 1785669508071
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "smallsRequired": 1
+      },
+      "id": "msbpjhn9-p-wi89r5",
+      "ts": 1785669543189
+    },
+    {
+      "type": "reward_defined",
+      "rewardId": "msbt33to-q-mbiy5u",
+      "name": "Эликсир восстановления",
+      "cost": 3000,
+      "id": "msbt33to-r-p20j4r",
+      "ts": 1785675497244
+    },
+    {
+      "type": "reward_defined",
+      "rewardId": "msbt3e75-s-74q8z4",
+      "name": "Хлебец",
+      "cost": 10,
+      "id": "msbt3e75-t-ntk06s",
+      "ts": 1785675510689
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "stretch",
+                "target": 10,
+                "label": "Растяжка 10 мин"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuy26m-v-s74z5v",
+      "ts": 1785678621070
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuy3s6-w-xhxh2m",
+      "ts": 1785678623142
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuy6h9-x-mjixwe",
+      "ts": 1785678626637
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuybub-y-sd4qr7",
+      "ts": 1785678633587
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuyeb4-z-r7w3d4",
+      "ts": 1785678636784
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuym56-10-sk5vz2",
+      "ts": 1785678646938
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuyn7o-11-wbrex2",
+      "ts": 1785678648324
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км",
+                "runKind": "easy"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuyv2o-12-zvfw0w",
+      "ts": 1785678658512
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuyvik-13-0spgx2",
+      "ts": 1785678659084
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuz42h-14-gsqw9c",
+      "ts": 1785678670169
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuz4dq-15-lj6ffg",
+      "ts": 1785678670574
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuz8xu-16-n6bzai",
+      "ts": 1785678676482
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msbuzaky-17-ov581d",
+      "ts": 1785678678610
+    },
+    {
+      "id": "mscje5li-18-tu8bdx",
+      "ts": 1785708000000,
+      "type": "day_closed",
+      "day": "2026-08-02"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mscv0rqk-19-ux8scz",
+      "ts": 1785739213677
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 76,
+                "label": "Бег 76 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mscv11cn-1a-7zaf46",
+      "ts": 1785739226135
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mscv11w7-1b-v1auby",
+      "ts": 1785739226839
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 76,
+                "label": "Бег 76 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mscv14f0-1c-jkjioh",
+      "ts": 1785739230108
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mscv15cp-1d-1kvzqu",
+      "ts": 1785739231321
+    },
+    {
+      "type": "action",
+      "action": "run",
+      "payload": {
+        "amount": 6,
+        "runKind": "easy"
+      },
+      "ts": 1785739244438,
+      "id": "mscv1fh3-1e-fooybi"
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785739261021,
+      "id": "mscv1s9p-1f-g1qxqi"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1785739265396,
+      "id": "mscv1vn8-1g-bbmt7k"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1785739269572,
+      "id": "mscv1yv8-1h-0l2lrd"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1785739274343,
+      "id": "mscv22jr-1i-7zqwoa"
+    }
+  ]
+}
