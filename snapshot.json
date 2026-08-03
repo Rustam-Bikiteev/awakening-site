@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1785759644314,
+  "exportedAt": 1785789774085,
   "events": [
     {
       "type": "settings",
@@ -2941,6 +2941,15 @@
       },
       "ts": 1785739274343,
       "id": "mscv22jr-1i-7zqwoa"
+    },
+    {
+      "type": "action",
+      "action": "content",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785789406043,
+      "id": "msdowkez-3-sck6dg"
     }
   ]
 }
