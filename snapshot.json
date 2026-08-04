@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1785791032904,
+  "exportedAt": 1785849296184,
   "events": [
     {
       "type": "settings",
@@ -2950,6 +2950,505 @@
       },
       "ts": 1785789406043,
       "id": "msdowkez-3-sck6dg"
+    },
+    {
+      "id": "msea8qyv-1-r5tu7n",
+      "ts": 1785794400000,
+      "type": "day_closed",
+      "day": "2026-08-03"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "swim",
+                "target": 1000,
+                "label": "Плавание 1000 м"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msea9cs0-2-ysoec8",
+      "ts": 1785825274608
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msea9dz6-3-yk8cye",
+      "ts": 1785825276162
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785825285402,
+      "id": "msea9l3u-4-dwi4nb"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1785825292351,
+      "id": "msea9qgv-5-o8ezxv"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1785825302330,
+      "id": "msea9y62-6-zafqem"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1785825325419,
+      "id": "mseaafzf-8-xyjoim"
+    },
+    {
+      "type": "action",
+      "action": "sleep",
+      "payload": {
+        "amount": 7
+      },
+      "ts": 1785827491283,
+      "id": "msebkv6b-9-g99b8m"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mseblhh3-a-d5tmj5",
+      "ts": 1785827520183
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msemar35-b-1d685i",
+      "ts": 1785845495201
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              },
+              {
+                "action": "run",
+                "target": 5,
+                "label": "Бег 5 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msen6vfk-1-16n7ax",
+      "ts": 1785846993824
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу 1 раз"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msendwoq-1-der17b",
+      "ts": 1785847322042
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу",
+                "plain": true
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msendxfw-2-x4mau1",
+      "ts": 1785847323020
+    },
+    {
+      "type": "action",
+      "action": "custom:msbloyyr",
+      "payload": {
+        "amount": 1,
+        "custom": {
+          "label": "Записаться к травматологу",
+          "unit": "раз",
+          "xpPerUnit": 1,
+          "stat": "MND"
+        }
+      },
+      "ts": 1785848615746,
+      "id": "mseo5mwy-1-0wt76r"
     }
   ]
 }
