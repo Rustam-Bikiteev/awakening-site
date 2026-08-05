@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1785924948705,
+  "exportedAt": 1785960702883,
   "events": [
     {
       "type": "settings",
@@ -3709,6 +3709,58 @@
       "debuff": "no_sleep",
       "ts": 1785921309978,
       "id": "msfvfq56-6-f3j07c"
+    },
+    {
+      "type": "action",
+      "action": "run",
+      "payload": {
+        "amount": 6,
+        "runKind": "interval"
+      },
+      "ts": 1785958766233,
+      "id": "msghqjkp-1-7gyd95"
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785958771859,
+      "id": "msghqnwz-2-5mgvuc"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1785958780521,
+      "id": "msghqull-3-3h87yx"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1785958785530,
+      "id": "msghqygq-4-o4o046"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1785958790759,
+      "id": "msghr2hz-5-1lqjit"
     }
   ]
 }
