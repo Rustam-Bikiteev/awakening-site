@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1785960702883,
+  "exportedAt": 1786024854373,
   "events": [
     {
       "type": "settings",
@@ -3761,6 +3761,202 @@
       },
       "ts": 1785958790759,
       "id": "msghr2hz-5-1lqjit"
+    },
+    {
+      "type": "action",
+      "action": "content",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1785962368406,
+      "id": "msgjvr12-1-lr94j2"
+    },
+    {
+      "id": "msgtyikz-2-b8u9so",
+      "ts": 1785967200000,
+      "type": "day_closed",
+      "day": "2026-08-05"
+    },
+    {
+      "type": "action",
+      "action": "morning",
+      "payload": {
+        "amount": 1
+      },
+      "ts": 1786002850927,
+      "id": "msh7zfjj-3-6ya3xe"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Подтягивания",
+        "exerciseMul": 1.5
+      },
+      "ts": 1786002856736,
+      "id": "msh7zk0w-4-avy6iv"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Приседания",
+        "exerciseMul": 1.3
+      },
+      "ts": 1786002861691,
+      "id": "msh7znuj-5-nsu2vw"
+    },
+    {
+      "type": "action",
+      "action": "strength",
+      "payload": {
+        "amount": 4,
+        "exercise": "Отжимания",
+        "exerciseMul": 1
+      },
+      "ts": 1786002866938,
+      "id": "msh7zrwa-6-hqyqy9"
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу",
+                "plain": true
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": []
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "mshee8ic-7-flr4pr",
+      "ts": 1786013619348
+    },
+    {
+      "type": "settings",
+      "patch": {
+        "week": [
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "custom:msbloyyr",
+                "target": 1,
+                "label": "Записаться к травматологу",
+                "plain": true
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 6,
+                "label": "Бег 6 км"
+              }
+            ]
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "swim",
+                "target": 700,
+                "label": "Плавание 700 м"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          },
+          {
+            "recovery": false,
+            "core": [
+              {
+                "action": "run",
+                "target": 7,
+                "label": "Бег 7 км"
+              }
+            ]
+          },
+          {
+            "recovery": true,
+            "core": []
+          }
+        ]
+      },
+      "id": "msheeq5k-8-v4vcnj",
+      "ts": 1786013642216
+    },
+    {
+      "type": "action",
+      "action": "swim",
+      "payload": {
+        "amount": 700
+      },
+      "ts": 1786013666521,
+      "id": "mshef8wp-9-4sgn8r"
     }
   ]
 }
