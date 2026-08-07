@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1786024854373,
+  "exportedAt": 1786090289508,
   "events": [
     {
       "type": "settings",
@@ -3957,6 +3957,24 @@
       },
       "ts": 1786013666521,
       "id": "mshef8wp-9-4sgn8r"
+    },
+    {
+      "type": "debuff",
+      "debuff": "no_sleep",
+      "ts": 1786024866483,
+      "id": "mshl3aus-1-55jnn7"
+    },
+    {
+      "id": "msi9p683-2-ix9enw",
+      "ts": 1786053600000,
+      "type": "day_closed",
+      "day": "2026-08-06"
+    },
+    {
+      "type": "debuff",
+      "debuff": "no_sleep",
+      "ts": 1786088597977,
+      "id": "msin1ae1-3-660ibu"
     }
   ]
 }
