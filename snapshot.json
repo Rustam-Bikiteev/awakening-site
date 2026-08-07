@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1786120863841,
+  "exportedAt": 1786120924359,
   "events": [
     {
       "type": "settings",
@@ -3975,6 +3975,27 @@
       "debuff": "no_sleep",
       "ts": 1786088597977,
       "id": "msin1ae1-3-660ibu"
+    },
+    {
+      "type": "goal_defined",
+      "goal": {
+        "title": "Забег РУТС. 10 км.",
+        "rank": "small",
+        "from": "2026-08-08",
+        "due": "2026-08-08",
+        "steps": [],
+        "stake": {
+          "xp": 150,
+          "coins": 30
+        },
+        "goalId": "msj69slz-1-ql15jh",
+        "reward": {
+          "xp": 150,
+          "coins": 60
+        }
+      },
+      "id": "msj69slz-2-9zk2an",
+      "ts": 1786120907543
     }
   ]
 }
