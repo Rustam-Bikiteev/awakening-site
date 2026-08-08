@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "exportedAt": 1786196413217,
+  "exportedAt": 1786196979424,
   "events": [
     {
       "type": "settings",
@@ -4056,6 +4056,12 @@
       "ts": 1786140000000,
       "type": "day_closed",
       "day": "2026-08-07"
+    },
+    {
+      "type": "goal_finished",
+      "goalId": "msj69slz-1-ql15jh",
+      "id": "mskf8c60-1-d6r8by",
+      "ts": 1786196422296
     }
   ]
 }
